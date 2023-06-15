@@ -1,5 +1,9 @@
 # PROJECT MANAGEMENT TOOL
 
+
+https://github.com/dogukanyilmaz/project-management-tool/assets/67391004/7db263b3-9de3-4aa2-bd76-f4f0d3f3b4a6
+
+
 ## Application Screens
 ![Screenshot_2023-06-13-12-22-42](https://github.com/dogukanyilmaz/project-management-tool/assets/67391004/d05769e6-8ee0-4cff-908b-f342725478e0)
 ![Screenshot_2023-06-13-12-22-15](https://github.com/dogukanyilmaz/project-management-tool/assets/67391004/1ed8d087-77c6-4c44-ba18-13905a7a0207)
